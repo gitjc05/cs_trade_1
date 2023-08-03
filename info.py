@@ -5,7 +5,8 @@ stickers = {
     "fluxo holo": [5, 4.93], 
     "into the breach holo": [10, 1.84], 
     "monte holo": [8, 3.47], 
-    "monte gold": [2, 5.99]
+    "monte gold": [2, 5.99],
+    "fnatic holo": [24, 4.97]
 }
 
 capsules = {

@@ -12,7 +12,8 @@ urls_extensions = [
     "Sticker%20%7C%20Fluxo%20%28Holo%29%20%7C%20Paris%202023",
     "Sticker%20%7C%20Into%20The%20Breach%20%28Holo%29%20%7C%20Paris%202023",
     "Sticker%20%7C%20Monte%20%28Holo%29%20%7C%20Paris%202023",
-    "Sticker%20%7C%20Monte%20%28Gold%29%20%7C%20Paris%202023"
+    "Sticker%20%7C%20Monte%20%28Gold%29%20%7C%20Paris%202023",
+    "Sticker%20%7C%20Fnatic%20(Holo)%20%7C%20Paris%202023"
 ]
 
 capsule_urls = [
